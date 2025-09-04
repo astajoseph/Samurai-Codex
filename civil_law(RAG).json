@@ -1,0 +1,179 @@
+{
+  "civil_law_data": [
+    {
+      "type": "clause",
+      "law": "Indian Contract Act, 1872",
+      "clause": "Free Consent",
+      "description": "An agreement is valid only if both parties give consent freely, without coercion, fraud, undue influence, or misrepresentation.",
+      "layman_terms": "A contract is only valid if you agree willingly without being forced or tricked."
+    },
+    {
+      "type": "clause",
+      "law": "Indian Contract Act, 1872",
+      "clause": "Consideration",
+      "description": "A valid contract must involve consideration, meaning something of value must be exchanged between parties.",
+      "layman_terms": "A deal works only if both sides give something valuable in return."
+    },
+    {
+      "type": "clause",
+      "law": "Transfer of Property Act, 1882",
+      "clause": "Transfer of Immovable Property",
+      "description": "Property can only be transferred by a registered instrument if the value is above ₹100.",
+      "layman_terms": "Land or house transfers must be done through proper legal documents if the value is more than ₹100."
+    },
+    {
+      "type": "clause",
+      "law": "Transfer of Property Act, 1882",
+      "clause": "Doctrine of Part Performance",
+      "description": "If a person has taken possession of property in part performance of a contract, the transferor cannot deny the transfer later.",
+      "layman_terms": "If you’ve moved into a property after an agreement, the seller cannot back out later."
+    },
+    {
+      "type": "clause",
+      "law": "Law of Torts (Common Law in India)",
+      "clause": "Negligence",
+      "description": "Failure to take reasonable care, resulting in harm to another person.",
+      "layman_terms": "If someone is careless and you get harmed, you can claim damages."
+    },
+    {
+      "type": "clause",
+      "law": "Law of Torts (Common Law in India)",
+      "clause": "Defamation",
+      "description": "Publishing false statements that harm another person’s reputation.",
+      "layman_terms": "Spreading lies about someone that damage their image is punishable."
+    },
+    {
+      "type": "clause",
+      "law": "Constitution of India",
+      "clause": "Right to Equality (Article 14)",
+      "description": "The State shall not deny to any person equality before the law or equal protection of the laws.",
+      "layman_terms": "Everyone is equal in the eyes of the law, no special treatment."
+    },
+    {
+      "type": "clause",
+      "law": "Constitution of India",
+      "clause": "Right to Constitutional Remedies (Article 32)",
+      "description": "Individuals can directly approach the Supreme Court for enforcement of fundamental rights.",
+      "layman_terms": "You can go straight to the Supreme Court if your rights are violated."
+    },
+    {
+      "type": "clause",
+      "law": "Civil Procedure Code (CPC), 1908",
+      "clause": "Res Judicata (Section 11)",
+      "description": "A matter already decided by a competent court cannot be re-litigated between the same parties.",
+      "layman_terms": "If a court has already given judgment, you can’t file the same case again."
+    },
+    {
+      "type": "clause",
+      "law": "Civil Procedure Code (CPC), 1908",
+      "clause": "Temporary Injunction (Order 39)",
+      "description": "The court can grant a temporary injunction to maintain the status quo until the case is resolved.",
+      "layman_terms": "The court can order things to stay as they are until the case ends."
+    },
+    {
+      "type": "clause",
+      "law": "Civil Procedure Code (CPC), 1908",
+      "clause": "Execution of Decrees (Order 21)",
+      "description": "The process by which a decree passed by the court is implemented or enforced.",
+      "layman_terms": "If you win a case, this is how the judgment is carried out in real life."
+    },
+    {
+      "type": "term",
+      "term": "Adoption",
+      "reference": "Hindu Adoption and Maintenance Act, 1956",
+      "definition": "The legal process through which a person assumes the parenting of another, usually a child, transferring all rights and responsibilities.",
+      "layman_example": "When a couple legally adopts a child, that child becomes their lawful son or daughter."
+    },
+    {
+      "type": "term",
+      "term": "Affidavit",
+      "reference": "Civil Procedure Code, 1908",
+      "definition": "A written statement confirmed by oath or affirmation, used as evidence in court.",
+      "layman_example": "If someone wants to prove their age, they may submit an affidavit declaring their date of birth."
+    },
+    {
+      "type": "term",
+      "term": "Alimony",
+      "reference": "Hindu Marriage Act, 1955 / Divorce Laws",
+      "definition": "A court-ordered allowance a spouse pays to the other after separation or divorce for maintenance.",
+      "layman_example": "After divorce, the husband may be ordered to pay monthly alimony to support his wife."
+    },
+    {
+      "type": "term",
+      "term": "Bankrupt",
+      "reference": "Insolvency & Bankruptcy Code, 2016",
+      "definition": "A legal status when an individual or company cannot repay debts.",
+      "layman_example": "If a business owner owes too much money and cannot pay, they may be declared bankrupt by the court."
+    },
+    {
+      "type": "term",
+      "term": "Damages",
+      "reference": "Law of Torts / Civil Law",
+      "definition": "A sum of money awarded by a court to compensate for loss or injury.",
+      "layman_example": "If a shopkeeper sells spoiled food and it makes someone sick, they may have to pay damages."
+    },
+    {
+      "type": "term",
+      "term": "Decree",
+      "reference": "Civil Procedure Code, 1908",
+      "definition": "A formal expression of an adjudication by a civil court conclusively determining the rights of the parties.",
+      "layman_example": "When the court orders a landlord to return deposit money to a tenant, that is a decree."
+    },
+    {
+      "type": "term",
+      "term": "Eviction",
+      "reference": "Property Law / Rent Control Acts",
+      "definition": "The legal removal of a tenant from rented property.",
+      "layman_example": "If a tenant refuses to pay rent for months, the landlord can get a court order for eviction."
+    },
+    {
+      "type": "term",
+      "term": "Heir",
+      "reference": "Hindu Succession Act, 1956 / Indian Succession Act",
+      "definition": "A person legally entitled to inherit property or title after someone’s death.",
+      "layman_example": "When a father dies without a will, his son or daughter becomes the legal heir."
+    },
+    {
+      "type": "term",
+      "term": "Judgment",
+      "reference": "Civil Procedure Code, 1908",
+      "definition": "The final decision given by a court after considering evidence and arguments.",
+      "layman_example": "The judge delivered a judgment ordering the company to pay compensation."
+    },
+    {
+      "type": "term",
+      "term": "Negligence",
+      "reference": "Law of Torts",
+      "definition": "Failure to take proper care in doing something, causing damage or injury.",
+      "layman_example": "If a hospital does not sterilize equipment properly and a patient gets infected, that is negligence."
+    },
+    {
+      "type": "term",
+      "term": "Ownership",
+      "reference": "Property Law",
+      "definition": "The legal right of possessing, using, and disposing of something.",
+      "layman_example": "If you buy a house and register it, you gain full ownership rights."
+    },
+    {
+      "type": "term",
+      "term": "Plaintiff",
+      "reference": "Civil Procedure Code, 1908",
+      "definition": "A person who brings a legal action against another in a civil court.",
+      "layman_example": "If Ramesh sues his neighbor for damaging his wall, Ramesh is the plaintiff."
+    },
+    {
+      "type": "term",
+      "term": "Succession",
+      "reference": "Hindu Succession Act, 1956 / Indian Succession Act",
+      "definition": "The process by which the property of a deceased person is transferred to heirs.",
+      "layman_example": "If a man dies without a will, his wife and children get his property by succession."
+    },
+    {
+      "type": "term",
+      "term": "Will",
+      "reference": "Indian Succession Act, 1925",
+      "definition": "A legal document where a person declares how their property should be distributed after death.",
+      "layman_example": "A father may write a will leaving his land to his daughter."
+    }
+  ]
+}

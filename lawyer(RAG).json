@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Aarav Mehta",
+    "specialization": "Corporate",
+    "experience": 14,
+    "location": "Mumbai"
+  },
+  {
+    "name": "Ishita Rao",
+    "specialization": "Arbitration",
+    "experience": 11,
+    "location": "Bengaluru"
+  },
+  {
+    "name": "Rahul Kapoor",
+    "specialization": "Criminal",
+    "experience": 18,
+    "location": "Delhi"
+  },
+  {
+    "name": "Neha Subramanian",
+    "specialization": "Intellectual Property",
+    "experience": 9,
+    "location": "Chennai"
+  },
+  {
+    "name": "Kabir Singh",
+    "specialization": "Real Estate",
+    "experience": 16,
+    "location": "Gurugram"
+  },
+  {
+    "name": "Simran Kaur",
+    "specialization": "Family",
+    "experience": 12,
+    "location": "Amritsar"
+  },
+  {
+    "name": "Raghav Nair",
+    "specialization": "Tax",
+    "experience": 20,
+    "location": "Kochi"
+  },
+  {
+    "name": "Priya Sharma",
+    "specialization": "Labour",
+    "experience": 8,
+    "location": "Jaipur"
+  },
+  {
+    "name": "Vikram Deshpande",
+    "specialization": "Banking & Finance",
+    "experience": 13,
+    "location": "Pune"
+  },
+  {
+    "name": "Ananya Banerjee",
+    "specialization": "Constitutional",
+    "experience": 17,
+    "location": "Kolkata"
+  }
+]
